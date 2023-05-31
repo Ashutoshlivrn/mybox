@@ -1,7 +1,7 @@
 # mybox
 
 Hi, this project consists of the following
-1. A page divided into two columns. First Column consits of checkBox from A to Z, and a submit button below. On selecting the boxes and tapping submit, selected boxes will move to 2nd column,   and vice versa.
+1. A page divided into two columns. First Column consists of checkBox from A to Z, and a submit button below. On selecting the boxes and tapping submit, selected boxes will move to 2nd column,   and vice versa.
 2. A speak button at the bottom of the screen, speak while holding the button and your spoken words are presented on the screen.
 
 ## Getting Started
